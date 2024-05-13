@@ -1,4 +1,4 @@
-# IMAGE-TRANSFORMATIONS
+# EX 04: IMAGE-TRANSFORMATIONS
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -19,8 +19,8 @@ Find the reflection of the image.
 ## Step 6:
 Rotate the image using angle function.
 ## Program:
-Developed By:VISHAL M.A
-Register Number:212222230177
+### Developed By:VISHAL M.A
+### Register Number:212222230177
 ## Image Translation
 ```python
 import numpy as np
